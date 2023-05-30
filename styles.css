@@ -1,4 +1,13 @@
 body {
-    background-image: url(images/pexels-leticia-ribeiro-2112651.jpg);
+    background-image: url(images/pexels-parag-deshmukh-577769.jpg);
     background-size: cover;
+}
+
+.card-1 {
+    max-width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.lp-statement {
+    color: cornsilk;
 }
